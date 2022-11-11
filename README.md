@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipjol1234
 - 👀 I’m interested in programmings 
-- 🌱 I’m currently learning how to madd website
+- 🌱 I’m currently learning how to made website
 - 💞️ I’m looking to collaborate on other programmer
 - 📫 This is my username @dipjol1234
 
